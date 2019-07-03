@@ -1,3 +1,4 @@
+/*
 var vue_example = new Vue({
     el: '#vue_example',
   
@@ -17,3 +18,4 @@ var vue_example = new Vue({
       },
     },
   })
+  */
